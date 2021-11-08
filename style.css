@@ -1,0 +1,16 @@
+.gradient{
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+
+
+
+.gradient_1{
+  background-image: linear-gradient(45deg, #76f536, #b57318);
+  background-clip: text
+  text-fill-color: transparent
+  background-size: 100%
+  background-color: orange;
+}
